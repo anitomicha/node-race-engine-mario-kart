@@ -1,0 +1,14 @@
+{
+  "name": "02-Desafio jogo corrida",
+  "version": "1.0.0",
+  "descricao": "02 meu primeiro primeiro projeto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "teste2": "echo \"claudiani a melhor\" && exit 1" 
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
