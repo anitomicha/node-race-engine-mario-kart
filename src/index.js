@@ -1,3 +1,11 @@
+const { rollDice, getBlock, calculatePoints } = require("./raceEngine");
+
+
+
+
+
+
+
 const player1 = {
   NOME: "Mario",
   VELOCIDADE: 4,
